@@ -1,0 +1,189 @@
+[2025-11-05T01:52:33.677065] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-05T01:52:33.677065] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "2bfdbc6c"}
+[2025-11-05T01:52:37.496815] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 3}
+[2025-11-05T01:52:37.496815] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "78344483"}
+[2025-11-05T01:52:41.093802] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "2db6d077"}
+[2025-11-05T01:52:44.719527] [INFO] Processing query: Describe the importance of testing in software development | Data: {"workflow_id": "32118d43"}
+[2025-11-05T01:52:48.596322] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 3, "success_rate": 0}
+[2025-11-05T01:58:22.072030] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-05T01:58:22.072030] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "576ac5c6"}
+[2025-11-05T01:58:25.531047] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 3}
+[2025-11-05T01:58:25.536084] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "17fecdd3"}
+[2025-11-05T01:58:28.577813] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "e70f677b"}
+[2025-11-05T01:58:32.273496] [INFO] Processing query: Describe the importance of testing in software development | Data: {"workflow_id": "a1e6a548"}
+[2025-11-05T01:58:35.383983] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 3, "success_rate": 0}
+[2025-11-05T02:01:04.772335] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-05T02:01:04.775124] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "1cd533b6"}
+[2025-11-05T02:01:09.033412] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 3}
+[2025-11-05T02:01:09.033412] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "3fecd888"}
+[2025-11-05T02:01:12.439849] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "65500abc"}
+[2025-11-05T02:01:17.069477] [INFO] Processing query: Describe the importance of testing in software development | Data: {"workflow_id": "5bd72e16"}
+[2025-11-05T02:01:20.246832] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 3, "success_rate": 0}
+[2025-11-05T02:04:22.376996] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-05T02:04:22.376996] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "8541475f"}
+[2025-11-05T02:04:26.697047] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 3}
+[2025-11-05T02:04:26.697378] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "39ed3169"}
+[2025-11-05T02:04:30.321960] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "3da4c75f"}
+[2025-11-05T02:04:33.672043] [INFO] Processing query: Describe the importance of testing in software development | Data: {"workflow_id": "f8703c8d"}
+[2025-11-05T02:04:36.997131] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 3, "success_rate": 0}
+[2025-11-05T02:09:26.536779] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-05T02:09:26.537377] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "d65a7814"}
+[2025-11-05T02:09:30.267417] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 3}
+[2025-11-05T02:09:30.275234] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "34510562"}
+[2025-11-05T02:09:34.170587] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "9c58ccce"}
+[2025-11-05T02:09:39.016735] [INFO] Processing query: Describe the importance of testing in software development | Data: {"workflow_id": "93323b29"}
+[2025-11-05T02:09:42.361504] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 3, "success_rate": 0}
+[2025-11-05T02:12:51.392722] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-05T02:12:51.395784] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "c44791e3"}
+[2025-11-05T02:13:14.077817] [ERROR] Workflow failed: Object of type datetime is not JSON serializable | Data: {"workflow_id": "c44791e3"}
+[2025-11-05T02:13:14.077817] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 3}
+[2025-11-05T02:13:14.077817] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "1e4c9a33"}
+[2025-11-05T02:13:56.026886] [ERROR] Workflow failed: Object of type datetime is not JSON serializable | Data: {"workflow_id": "1e4c9a33"}
+[2025-11-05T02:13:57.037726] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "378d4fa7"}
+[2025-11-05T02:15:02.495800] [ERROR] Workflow failed: Object of type datetime is not JSON serializable | Data: {"workflow_id": "378d4fa7"}
+[2025-11-05T02:15:03.512050] [INFO] Processing query: Describe the importance of testing in software development | Data: {"workflow_id": "828ad9d4"}
+[2025-11-05T02:16:10.703190] [ERROR] Workflow failed: Object of type datetime is not JSON serializable | Data: {"workflow_id": "828ad9d4"}
+[2025-11-05T02:16:11.706458] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 3, "success_rate": 1.0}
+[2025-11-05T02:18:35.706903] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-05T02:18:35.712011] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "1a190040"}
+[2025-11-05T02:18:53.799070] [ERROR] Workflow failed: Object of type datetime is not JSON serializable | Data: {"workflow_id": "1a190040"}
+[2025-11-05T02:18:53.799070] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 3}
+[2025-11-05T02:18:53.799070] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "cfb6ade8"}
+[2025-11-05T02:19:53.850195] [ERROR] Workflow failed: Object of type datetime is not JSON serializable | Data: {"workflow_id": "cfb6ade8"}
+[2025-11-05T02:19:54.866591] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "3988cb07"}
+[2025-11-05T02:20:57.587726] [ERROR] Workflow failed: Object of type datetime is not JSON serializable | Data: {"workflow_id": "3988cb07"}
+[2025-11-05T02:20:58.592119] [INFO] Processing query: Describe the importance of testing in software development | Data: {"workflow_id": "720e1131"}
+[2025-11-05T02:21:40.140848] [ERROR] Workflow failed: Object of type datetime is not JSON serializable | Data: {"workflow_id": "720e1131"}
+[2025-11-05T02:21:41.150362] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 3, "success_rate": 1.0}
+[2025-11-05T02:23:57.713786] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-05T02:23:57.719835] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "668e1495"}
+[2025-11-05T02:24:16.423636] [INFO] Workflow completed successfully | Data: {"workflow_id": "668e1495", "accuracy": 0.9, "latency_ms": 18700.780630111694}
+[2025-11-05T02:24:16.423636] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 2}
+[2025-11-05T02:24:16.423636] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "28651807"}
+[2025-11-05T02:25:19.479584] [INFO] Workflow completed successfully | Data: {"workflow_id": "28651807", "accuracy": 0.75, "latency_ms": 63035.65192222595}
+[2025-11-05T02:25:20.486019] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "f1b21a37"}
+[2025-11-05T02:26:05.627229] [INFO] Workflow completed successfully | Data: {"workflow_id": "f1b21a37", "accuracy": 0.95, "latency_ms": 45134.20104980469}
+[2025-11-05T02:26:06.640421] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 2, "success_rate": 1.0}
+[2025-11-05T02:30:32.833596] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-05T02:30:32.833596] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "e0a7a569"}
+[2025-11-05T02:30:57.612883] [INFO] Workflow completed successfully | Data: {"workflow_id": "e0a7a569", "accuracy": 0.95, "latency_ms": 24769.867658615112}
+[2025-11-05T02:30:57.617247] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 2}
+[2025-11-05T02:30:57.619365] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "c07d1b78"}
+[2025-11-05T02:31:41.452912] [INFO] Workflow completed successfully | Data: {"workflow_id": "c07d1b78", "accuracy": 0.75, "latency_ms": 43829.00619506836}
+[2025-11-05T02:31:42.459378] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "6b76cf04"}
+[2025-11-05T02:32:49.923699] [INFO] Workflow completed successfully | Data: {"workflow_id": "6b76cf04", "accuracy": 0.8, "latency_ms": 67458.82248878479}
+[2025-11-05T02:32:50.934924] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 2, "success_rate": 1.0}
+[2025-11-05T02:36:06.002664] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-05T02:36:06.002664] [INFO] Processing query: What is requirements engineering? | Data: {"workflow_id": "cbf27c82"}
+[2025-11-05T02:36:32.552515] [INFO] Workflow completed successfully | Data: {"workflow_id": "cbf27c82", "accuracy": 0.75, "latency_ms": 26537.012815475464}
+[2025-11-05T02:36:33.062296] [INFO] Processing query: Explain software testing methodologies | Data: {"workflow_id": "ae0647d1"}
+[2025-11-05T02:37:20.859715] [INFO] Workflow completed successfully | Data: {"workflow_id": "ae0647d1", "accuracy": 0.75, "latency_ms": 47793.26272010803}
+[2025-11-05T02:37:21.363555] [INFO] Processing query: What are microservices? | Data: {"workflow_id": "ba842d3d"}
+[2025-11-05T02:38:26.123277] [INFO] Workflow completed successfully | Data: {"workflow_id": "ba842d3d", "accuracy": 0.75, "latency_ms": 64754.7173500061}
+[2025-11-05T02:38:26.623386] [INFO] Processing query: Describe Agile development | Data: {"workflow_id": "cde0b212"}
+[2025-11-05T02:39:10.202825] [INFO] Workflow completed successfully | Data: {"workflow_id": "cde0b212", "accuracy": 0.75, "latency_ms": 43575.59680938721}
+[2025-11-05T02:39:10.714926] [INFO] Processing query: What is CI/CD pipeline? | Data: {"workflow_id": "f529ebf0"}
+[2025-11-05T02:40:15.863728] [INFO] Workflow completed successfully | Data: {"workflow_id": "f529ebf0", "accuracy": 0.75, "latency_ms": 65143.78380775452}
+[2025-11-05T02:40:16.382228] [INFO] Processing query: What is Python programming? | Data: {"workflow_id": "72fd0e42"}
+[2025-11-05T02:41:24.681507] [INFO] Workflow completed successfully | Data: {"workflow_id": "72fd0e42", "accuracy": 0.75, "latency_ms": 68286.44800186157}
+[2025-11-05T02:41:25.190556] [INFO] Processing query: How do I treat my illness? | Data: {"workflow_id": "9738e27b"}
+[2025-11-05T02:42:11.432088] [INFO] Workflow completed successfully | Data: {"workflow_id": "9738e27b", "accuracy": 0.75, "latency_ms": 46239.45212364197}
+[2025-11-05T02:42:11.946201] [INFO] Processing query: What is machine learning? | Data: {"workflow_id": "5d57b455"}
+[2025-11-05T02:43:18.994131] [INFO] Workflow completed successfully | Data: {"workflow_id": "5d57b455", "accuracy": 0.75, "latency_ms": 67041.15319252014}
+[2025-11-05T02:43:19.505843] [INFO] Processing query: Give me financial advice | Data: {"workflow_id": "55fec866"}
+[2025-11-05T02:43:20.014391] [INFO] Processing query: Explain data structures | Data: {"workflow_id": "832c9d15"}
+[2025-11-05T02:44:05.868788] [INFO] Workflow completed successfully | Data: {"workflow_id": "832c9d15", "accuracy": 0.8, "latency_ms": 45848.80995750427}
+[2025-11-05T02:44:06.372679] [INFO] Processing query: What is software architecture? | Data: {"workflow_id": "1d09657a"}
+[2025-11-05T02:45:14.972739] [INFO] Workflow completed successfully | Data: {"workflow_id": "1d09657a", "accuracy": 0.9, "latency_ms": 68593.47295761108}
+[2025-11-05T02:45:15.485552] [INFO] Processing query: What is software architecture? | Data: {"workflow_id": "752fac3b"}
+[2025-11-05T02:46:19.102602] [INFO] Workflow completed successfully | Data: {"workflow_id": "752fac3b", "accuracy": 0.75, "latency_ms": 63610.11219024658}
+[2025-11-05T02:46:19.607009] [INFO] Processing query: What is software architecture? | Data: {"workflow_id": "ea469752"}
+[2025-11-05T02:47:24.623019] [INFO] Workflow completed successfully | Data: {"workflow_id": "ea469752", "accuracy": 0.75, "latency_ms": 65011.2144947052}
+[2025-11-05T02:47:25.134362] [INFO] Processing query: What is software architecture? | Data: {"workflow_id": "3ed885ac"}
+[2025-11-05T02:48:10.572550] [INFO] Workflow completed successfully | Data: {"workflow_id": "3ed885ac", "accuracy": 0.9, "latency_ms": 45438.18807601929}
+[2025-11-05T02:48:11.072730] [INFO] Processing query: What is software architecture? | Data: {"workflow_id": "72d3e530"}
+[2025-11-05T02:49:14.707100] [INFO] Workflow completed successfully | Data: {"workflow_id": "72d3e530", "accuracy": 0.75, "latency_ms": 63633.66603851318}
+[2025-11-11T01:37:57.166156] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T01:37:57.166156] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "c57bb0fd"}
+[2025-11-11T01:38:25.518520] [INFO] Workflow completed successfully | Data: {"workflow_id": "c57bb0fd", "accuracy": 0.95, "latency_ms": 28337.758541107178}
+[2025-11-11T01:38:25.534192] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 2}
+[2025-11-11T01:38:25.534192] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "a5b4cf02"}
+[2025-11-11T01:39:11.668491] [INFO] Workflow completed successfully | Data: {"workflow_id": "a5b4cf02", "accuracy": 0.75, "latency_ms": 46131.166219711304}
+[2025-11-11T01:39:12.675847] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "efb5d4e6"}
+[2025-11-11T01:40:15.408634] [INFO] Workflow completed successfully | Data: {"workflow_id": "efb5d4e6", "accuracy": 0.95, "latency_ms": 62720.37196159363}
+[2025-11-11T01:40:16.423632] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 2, "success_rate": 1.0}
+[2025-11-11T01:53:05.049168] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T01:53:05.051175] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "8b5c3c69"}
+[2025-11-11T01:53:28.078391] [INFO] Workflow completed successfully | Data: {"workflow_id": "8b5c3c69", "accuracy": 0.9, "latency_ms": 23021.734714508057}
+[2025-11-11T01:53:28.078391] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 2}
+[2025-11-11T01:53:28.078391] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "1e592a9b"}
+[2025-11-11T01:54:12.799196] [INFO] Workflow completed successfully | Data: {"workflow_id": "1e592a9b", "accuracy": 0.75, "latency_ms": 44709.476470947266}
+[2025-11-11T01:54:13.806349] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "c6fb0811"}
+[2025-11-11T01:55:15.744673] [INFO] Workflow completed successfully | Data: {"workflow_id": "c6fb0811", "accuracy": 0.85, "latency_ms": 61930.784463882446}
+[2025-11-11T01:55:16.760513] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 2, "success_rate": 1.0}
+[2025-11-11T01:58:40.605575] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T01:59:06.608676] [INFO] Processing query: Explain the importance of software testing | Data: {"workflow_id": "f21c05eb"}
+[2025-11-11T01:59:29.334704] [INFO] Workflow completed successfully | Data: {"workflow_id": "f21c05eb", "accuracy": 0.75, "latency_ms": 22717.80514717102}
+[2025-11-11T02:00:26.302991] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 3}
+[2025-11-11T02:00:26.302991] [INFO] Processing query: Explain microservices | Data: {"workflow_id": "1b6ceee9"}
+[2025-11-11T02:00:50.035763] [INFO] Workflow completed successfully | Data: {"workflow_id": "1b6ceee9", "accuracy": 0.75, "latency_ms": 23719.855785369873}
+[2025-11-11T02:00:51.047707] [INFO] Processing query: What is DevOps? | Data: {"workflow_id": "6f21620f"}
+[2025-11-11T02:01:34.195418] [INFO] Workflow completed successfully | Data: {"workflow_id": "6f21620f", "accuracy": 0.75, "latency_ms": 43145.15566825867}
+[2025-11-11T02:01:35.205511] [INFO] Processing query: What is CI/CD? | Data: {"workflow_id": "f28c39c0"}
+[2025-11-11T02:02:39.014862] [INFO] Workflow completed successfully | Data: {"workflow_id": "f28c39c0", "accuracy": 0.75, "latency_ms": 63803.26247215271}
+[2025-11-11T02:02:40.021131] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 3, "success_rate": 1.0}
+[2025-11-11T02:06:57.480161] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T02:07:17.925762] [INFO] Processing query: How many murders were reported in Bihar in 2024? | Data: {"workflow_id": "e5ee5a56"}
+[2025-11-11T02:09:22.650701] [INFO] Processing query: Why is Bihar so bad? | Data: {"workflow_id": "25713e47"}
+[2025-11-11T02:10:10.344222] [INFO] Processing query: What is software engineering? | Data: {"workflow_id": "042b3e89"}
+[2025-11-11T02:11:16.137858] [INFO] Workflow completed successfully | Data: {"workflow_id": "042b3e89", "accuracy": 0.75, "latency_ms": 65789.10660743713}
+[2025-11-11T02:12:35.812028] [INFO] Processing query: what is dsa? | Data: {"workflow_id": "66b7c43a"}
+[2025-11-11T02:21:19.851394] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T02:21:25.535088] [INFO] Processing query: what is dsa? | Data: {"workflow_id": "b8b3e5ff"}
+[2025-11-11T02:21:25.543162] [ERROR] Workflow failed: cannot unpack non-iterable coroutine object | Data: {"workflow_id": "b8b3e5ff"}
+[2025-11-11T02:23:02.344174] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T02:23:05.551452] [INFO] Processing query: what is dsa? | Data: {"workflow_id": "1272681f"}
+[2025-11-11T02:29:28.571639] [INFO] Processing query: what is software engineering? | Data: {"workflow_id": "ebad3aa1"}
+[2025-11-11T02:37:22.657234] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T02:37:31.497384] [INFO] Processing query: what is dsa? | Data: {"workflow_id": "37ca0ef6"}
+[2025-11-11T02:38:02.634336] [INFO] Workflow completed successfully | Data: {"workflow_id": "37ca0ef6", "accuracy": 0.75, "latency_ms": 27751.338481903076}
+[2025-11-11T02:38:27.086152] [INFO] Processing query: what is dsa? | Data: {"workflow_id": "e6fbed38"}
+[2025-11-11T02:42:21.571379] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T02:42:25.713626] [INFO] Processing query: what is dsa? | Data: {"workflow_id": "4500c1bf"}
+[2025-11-11T02:43:15.663754] [INFO] Workflow completed successfully | Data: {"workflow_id": "4500c1bf", "accuracy": 0.75, "latency_ms": 47248.576402664185}
+[2025-11-11T02:43:22.128649] [INFO] Processing query: what is dsa? | Data: {"workflow_id": "ce54aeb6"}
+[2025-11-11T02:44:52.683294] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T02:44:57.078006] [INFO] Processing query: what is dsa? | Data: {"workflow_id": "a298afff"}
+[2025-11-11T02:45:37.638345] [INFO] Workflow completed successfully | Data: {"workflow_id": "a298afff", "accuracy": 0.9, "latency_ms": 39387.87364959717}
+[2025-11-11T02:45:51.307461] [INFO] Processing query: what is dsa? | Data: {"workflow_id": "1f556fb6"}
+[2025-11-11T02:46:53.007533] [INFO] Workflow completed successfully | Data: {"workflow_id": "1f556fb6", "accuracy": 0.95, "latency_ms": 61129.29105758667}
+[2025-11-11T02:48:12.270911] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T02:48:18.351984] [INFO] Processing query: why is bihar so bad? | Data: {"workflow_id": "9a64c5cc"}
+[2025-11-11T02:48:58.172839] [INFO] Workflow completed successfully | Data: {"workflow_id": "9a64c5cc", "accuracy": 0.9, "latency_ms": 38294.939279556274}
+[2025-11-11T02:49:28.537056] [INFO] Processing query: what are the number of reported murders in bihar in 2024? | Data: {"workflow_id": "6b12f625"}
+[2025-11-11T02:50:06.379405] [INFO] Workflow completed successfully | Data: {"workflow_id": "6b12f625", "accuracy": 0.9, "latency_ms": 37058.77327919006}
+[2025-11-11T02:51:50.044631] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T02:52:15.965447] [INFO] Processing query: do you think project nimbus by google a good initiative? | Data: {"workflow_id": "90dda2a8"}
+[2025-11-11T02:52:54.742218] [INFO] Workflow completed successfully | Data: {"workflow_id": "90dda2a8", "accuracy": 0.9, "latency_ms": 37609.636545181274}
+[2025-11-10T21:28:01.838248] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-10T21:29:01.535458] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-10T21:29:01.537680] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "966a408b"}
+[2025-11-10T21:29:39.003483] [INFO] Workflow completed successfully | Data: {"workflow_id": "966a408b", "accuracy": 0.9, "latency_ms": 36515.33627510071}
+[2025-11-10T21:29:39.005975] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 2}
+[2025-11-10T21:29:39.020087] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "bff6641d"}
+[2025-11-10T21:30:52.390246] [INFO] Workflow completed successfully | Data: {"workflow_id": "bff6641d", "accuracy": 0.9, "latency_ms": 52447.79014587402}
+[2025-11-10T21:30:53.393878] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "78d18395"}
+[2025-11-10T21:32:13.444001] [INFO] Workflow completed successfully | Data: {"workflow_id": "78d18395", "accuracy": 0.9, "latency_ms": 59218.75619888306}
+[2025-11-10T21:32:14.447632] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 2, "success_rate": 1.0}
+[2025-11-11T03:03:26.992847] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-11T03:03:26.994452] [INFO] Processing query: What are the key principles of software engineering? | Data: {"workflow_id": "8ac4bd6f"}
+[2025-11-11T03:04:03.489098] [INFO] Workflow completed successfully | Data: {"workflow_id": "8ac4bd6f", "accuracy": 0.9, "latency_ms": 34683.71248245239}
+[2025-11-11T03:04:03.491628] [INFO] Starting batch experiment: Software Engineering Concepts | Data: {"num_queries": 2}
+[2025-11-11T03:04:03.491628] [INFO] Processing query: Explain microservices architecture | Data: {"workflow_id": "2208b9de"}
+[2025-11-11T03:05:19.837995] [INFO] Workflow completed successfully | Data: {"workflow_id": "2208b9de", "accuracy": 0.9, "latency_ms": 55288.398027420044}
+[2025-11-11T03:05:20.839742] [INFO] Processing query: What is Agile methodology? | Data: {"workflow_id": "80560089"}
+[2025-11-11T03:06:35.302041] [INFO] Workflow completed successfully | Data: {"workflow_id": "80560089", "accuracy": 0.9, "latency_ms": 53650.98977088928}
+[2025-11-11T03:06:36.315425] [INFO] Batch experiment completed: Software Engineering Concepts | Data: {"total_queries": 2, "success_rate": 1.0}
+[2025-11-13T11:37:10.539092] [INFO] Multi-Agent System initialized | Data: {"system_name": "Research Assistant Multi-Agent System", "version": "1.0.0"}
+[2025-11-13T11:37:16.397705] [INFO] Processing query: what is dsa? | Data: {"workflow_id": "cd8d004a"}
+[2025-11-13T11:37:58.983843] [INFO] Workflow completed successfully | Data: {"workflow_id": "cd8d004a", "accuracy": 0.9, "latency_ms": 38023.266077041626}

@@ -1,0 +1,30 @@
+Experiment Analysis: boundary_testing
+================================================================================
+
+SUMMARY
+----------------------------------------
+total_queries: 5
+completed: 4
+rejected: 1
+failed: 0
+success_rate: 0.8
+
+PERFORMANCE METRICS
+----------------------------------------
+avg_latency_ms: 56853.97
+min_latency_ms: 45848.81
+max_latency_ms: 68286.45
+avg_tokens: 2271.50
+total_tokens: 9086.00
+
+QUALITY METRICS
+----------------------------------------
+avg_accuracy: 0.76
+min_accuracy: 0.75
+max_accuracy: 0.80
+avg_reliability: 1.00
+
+REQUIREMENTS COMPLIANCE
+----------------------------------------
+compliance_rate: 0.0
+violations: 4

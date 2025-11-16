@@ -1,0 +1,30 @@
+Experiment Analysis: software_engineering_concepts
+================================================================================
+
+SUMMARY
+----------------------------------------
+total_queries: 5
+completed: 5
+rejected: 0
+failed: 0
+success_rate: 1.0
+
+PERFORMANCE METRICS
+----------------------------------------
+avg_latency_ms: 49560.87
+min_latency_ms: 26537.01
+max_latency_ms: 65143.78
+avg_tokens: 2332.20
+total_tokens: 11661.00
+
+QUALITY METRICS
+----------------------------------------
+avg_accuracy: 0.75
+min_accuracy: 0.75
+max_accuracy: 0.75
+avg_reliability: 1.00
+
+REQUIREMENTS COMPLIANCE
+----------------------------------------
+compliance_rate: 0.0
+violations: 5

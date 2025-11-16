@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "total_queries": 5,
+    "completed": 5,
+    "rejected": 0,
+    "failed": 0,
+    "success_rate": 1.0
+  },
+  "performance": {
+    "avg_latency_ms": 49560.874700546265,
+    "min_latency_ms": 26537.012815475464,
+    "max_latency_ms": 65143.78380775452,
+    "avg_tokens": 2332.2,
+    "total_tokens": 11661
+  },
+  "quality": {
+    "avg_accuracy": 0.75,
+    "min_accuracy": 0.75,
+    "max_accuracy": 0.75,
+    "avg_reliability": 1.0
+  },
+  "requirements_compliance": {
+    "compliance_rate": 0.0,
+    "violations": 5
+  }
+}

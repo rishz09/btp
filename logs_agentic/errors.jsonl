@@ -1,0 +1,1 @@
+{"timestamp": "2025-11-17T02:33:06.079054", "type": "error", "error_type": "TypeError", "error_message": "cannot unpack non-iterable coroutine object", "context": {"workflow_id": "487bbd74", "query": "How to increase revenue from stocks?"}}

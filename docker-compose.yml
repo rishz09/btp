@@ -1,0 +1,29 @@
+# version: "3.8"
+
+services:
+  # Main application service
+  agent-system:
+    build: .
+    container_name: multi-agent-system
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    volumes:
+      - ./logs:/app/logs
+      - ./tests:/app/tests
+    command: python main.py
+
+  # Optional: Redis for rate limiting (if needed in production)
+  # redis:
+  #   image: redis:7-alpine
+  #   container_name: agent-redis
+  #   ports:
+  #     - "6379:6379"
+
+  # Optional: Prometheus for metrics (if needed)
+  # prometheus:
+  #   image: prom/prometheus:latest
+  #   container_name: agent-prometheus
+  #   ports:
+  #     - "9090:9090"
+  #   volumes:
+  #     - ./prometheus.yml:/etc/prometheus/prometheus.yml
